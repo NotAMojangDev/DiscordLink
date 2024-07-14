@@ -18,6 +18,8 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.IOException;
 
+// Failed to make this file work
+
 public class WhitelistListener extends ListenerAdapter {
 
     private final ProfileService resolver;
