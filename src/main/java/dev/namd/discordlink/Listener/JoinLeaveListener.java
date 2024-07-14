@@ -1,7 +1,7 @@
-package io.namd.discordlink.Listener;
+package dev.namd.discordlink.Listener;
 
-import io.namd.discordlink.Discord.Bot;
-import io.namd.discordlink.DiscordLink;
+import dev.namd.discordlink.Discord.Bot;
+import dev.namd.discordlink.DiscordLink;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;

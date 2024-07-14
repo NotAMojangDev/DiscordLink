@@ -1,7 +1,7 @@
-package io.namd.discordlink.Discord;
+package dev.namd.discordlink.Discord;
 
-import io.namd.discordlink.DiscordLink;
-import io.namd.discordlink.utils.Logger;
+import dev.namd.discordlink.DiscordLink;
+import dev.namd.discordlink.utils.Logger;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;

@@ -1,7 +1,7 @@
-package io.namd.discordlink.Listener;
+package dev.namd.discordlink.Listener;
 
-import io.namd.discordlink.DiscordLink;
-import io.namd.discordlink.utils.Color;
+import dev.namd.discordlink.DiscordLink;
+import dev.namd.discordlink.utils.Color;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

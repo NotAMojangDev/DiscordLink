@@ -1,4 +1,4 @@
-package io.namd.discordlink.utils;
+package dev.namd.discordlink.utils;
 
 import org.bukkit.Bukkit;
 

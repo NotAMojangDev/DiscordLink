@@ -1,7 +1,7 @@
-package io.namd.discordlink.Discord;
+package dev.namd.discordlink.Discord;
 
-import io.namd.discordlink.DiscordLink;
-import io.namd.discordlink.utils.Config;
+import dev.namd.discordlink.DiscordLink;
+import dev.namd.discordlink.utils.Config;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;

@@ -1,11 +1,11 @@
-package io.namd.discordlink;
+package dev.namd.discordlink;
 
-import io.namd.discordlink.Discord.Bot;
-import io.namd.discordlink.Listener.ChatListener;
-import io.namd.discordlink.Listener.DeathListener;
-import io.namd.discordlink.Listener.JoinLeaveListener;
-import io.namd.discordlink.utils.Config;
-import io.namd.discordlink.utils.Message;
+import dev.namd.discordlink.Listener.ChatListener;
+import dev.namd.discordlink.Listener.JoinLeaveListener;
+import dev.namd.discordlink.utils.Message;
+import dev.namd.discordlink.Discord.Bot;
+import dev.namd.discordlink.Listener.DeathListener;
+import dev.namd.discordlink.utils.Config;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
@@ -13,7 +13,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public final class DiscordLink extends JavaPlugin {
 

@@ -1,6 +1,6 @@
-package io.namd.discordlink.utils;
+package dev.namd.discordlink.utils;
 
-import io.namd.discordlink.DiscordLink;
+import dev.namd.discordlink.DiscordLink;
 import net.dv8tion.jda.api.entities.Member;
 import org.bukkit.Bukkit;
 
