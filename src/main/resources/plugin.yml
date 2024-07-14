@@ -1,0 +1,4 @@
+name: DiscordLink
+version: '${project.version}'
+main: io.namd.discordlink.DiscordLink
+api-version: '1.21'

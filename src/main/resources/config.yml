@@ -1,0 +1,20 @@
+bot-token: MTI1MTU1MzY5MDAzMzE5NzEwNg.GhlAme.GPOUIB7bZOBTbTQRWmGrFBhmcpWItaT5RWyYSg
+
+bot:
+  # ONLINE, DND, IDLE, INVISIBLE, OFFLINE
+  status: ONLINE
+  activity: true
+  # WATCHING, PLAYING, LISTENING, STREAMING, COMPETING, CUSTOM
+  activity-type: WATCHING
+  activity-text: "FinalCraft"
+  streaming-link: "https://twitch.tv/NotAMojangDev"
+
+# Chat Channel
+mc-chat-channel: 1251553115292041227
+
+# Whitelist Channel
+# whitelist-channel: 1089863344430776380
+
+# Info Channel - Who's online, TPS, Uptime
+# Refreshes Every minute
+# info-channel: 1250209603753607208

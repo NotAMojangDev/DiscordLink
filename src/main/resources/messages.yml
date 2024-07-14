@@ -1,0 +1,22 @@
+# how the messages from discord will look in minecraft
+dc-message-format: "[&#6ACBF7Discord&f] {USER} » {MESSAGE}"
+
+# how minecraft messages will be sent in discord
+# (Whether the bot should send them or a different "bot" for every player)
+#   CUSTOM_HEAD - display a different profile picture and name for each user
+#   BOT - The bot will send messages based on the format in "message-format"
+# mc-message-type: BOT
+
+# How minecraft messages will look in discord
+mc-message-format: "{PLAYER} » {MESSAGE}"
+
+# Player Join message in Discord
+mc-player-join: "{PLAYER} joined the server!"
+
+# Player log out message in discord
+mc-player-leave: "{PLAYER} left the server!"
+
+# {PLAYER} - undecorated Player name
+# {DISPLAYNAME} - Colored display name
+# {MESSAGE} - Player's message
+chat-format: "{PLAYER}&r: &f{MESSAGE}"
