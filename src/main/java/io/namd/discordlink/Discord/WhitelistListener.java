@@ -61,8 +61,7 @@ public class WhitelistListener extends ListenerAdapter {
             event.getMessage()
                     .reply("There was an Error Registering this username\n" +
                             "Please report this to <@566630884623777822>\n" +
-                            "Or just wait for him to see this\n" +
-                            "היית בעיה, דבר עם <@566630884623777822> לסידורה!").queue();
+                            "Or just wait for him to see this\n").queue();
             return;
         }
 
